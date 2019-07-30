@@ -1,0 +1,11 @@
+inst/doc
+inst/note
+inst/test
+src-i386/
+src-x64/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+helpMe.Rproj
